@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "SAtk1.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":460,"y":189,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk2.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":460,"y":189,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk3.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":460,"y":189,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk4.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":168,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk5.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":168,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk6.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":168,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk7.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":168,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk8.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":462,"y":204,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk9.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":488,"y":287,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk10.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":488,"y":287,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SAtk11.png",
+	"frame": {"x":1,"y":257,"w":243,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":238,"w":243,"h":288},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knateA1S.png",
+	"format": "RGBA8888",
+	"size": {"w":247,"h":546},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e25d6bb521fd1508d4a1a74b5f9a1326:5c360a71681c39d336be0de11fe80bb5:fd48a989b7f6f64741b73bed9d4ed04e$"
+}
+}

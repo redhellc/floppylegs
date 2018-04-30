@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "Shield_Knate(1).png",
+	"frame": {"x":1,"y":1,"w":670,"h":335},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":169,"w":670,"h":335},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Shield_Knate(2).png",
+	"frame": {"x":1,"y":338,"w":652,"h":398},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":189,"w":652,"h":398},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Shield_Knate(3).png",
+	"frame": {"x":1,"y":738,"w":609,"h":384},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":204,"w":609,"h":384},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Shield_Knate(4).png",
+	"frame": {"x":1,"y":1124,"w":588,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":176,"w":588,"h":414},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knateS.png",
+	"format": "RGBA8888",
+	"size": {"w":672,"h":1539},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:96b9b099354d2b05c0ddb8ae92d3e543:0951cfd802057f9060ccaa94a4f30ea2:d2541a3a1224305f6e41a9e0331fc963$"
+}
+}

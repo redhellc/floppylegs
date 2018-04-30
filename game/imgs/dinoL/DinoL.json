@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "dinoLauncher1.png",
+	"frame": {"x":1,"y":1,"w":507,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":263,"w":507,"h":420},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dinoLauncher2.png",
+	"frame": {"x":510,"y":1,"w":428,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":384,"y":263,"w":428,"h":420},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "DinoL.png",
+	"format": "RGBA8888",
+	"size": {"w":939,"h":422},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b7ca7c9fd0f8a00ac992447b9a97409e:145eab44b5add2b51d8ddbe1869479f3:01ceb3c861733fdc2a765a429c808182$"
+}
+}

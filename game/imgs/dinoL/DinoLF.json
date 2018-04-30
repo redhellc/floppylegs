@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "dinoLfire(1).png",
+	"frame": {"x":510,"y":433,"w":507,"h":401},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":263,"w":507,"h":401},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dinoLfire(2).png",
+	"frame": {"x":448,"y":836,"w":428,"h":376},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":384,"y":263,"w":428,"h":376},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dinoLfire(3).png",
+	"frame": {"x":1,"y":1,"w":507,"h":469},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":263,"w":507,"h":469},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dinoLfire(4).png",
+	"frame": {"x":1,"y":472,"w":445,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":384,"y":263,"w":445,"h":448},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dinoLfire(5).png",
+	"frame": {"x":510,"y":1,"w":507,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":263,"w":507,"h":430},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "DinoLF.png",
+	"format": "RGBA8888",
+	"size": {"w":1018,"h":1213},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e54d00755a5daceb48fe34a41f814fb:701fb0ac045f36af74b71f93ad56bbb0:54ba773af1d30c3eb038b1ceb052a7f8$"
+}
+}

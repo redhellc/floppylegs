@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "dino1-2.0(1).png",
+	"frame": {"x":1,"y":346,"w":908,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":237,"w":908,"h":329},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(2).png",
+	"frame": {"x":1,"y":1,"w":908,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":237,"w":908,"h":343},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(3).png",
+	"frame": {"x":1,"y":1022,"w":896,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":261,"w":896,"h":322},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(4).png",
+	"frame": {"x":1,"y":677,"w":865,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":865,"h":343},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(5).png",
+	"frame": {"x":911,"y":346,"w":908,"h":329},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":237,"w":908,"h":329},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(6).png",
+	"frame": {"x":911,"y":1,"w":908,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":237,"w":908,"h":343},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(7).png",
+	"frame": {"x":899,"y":1022,"w":896,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":261,"w":896,"h":322},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino1-2.0(8).png",
+	"frame": {"x":868,"y":677,"w":865,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":865,"h":343},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dino1.png",
+	"format": "RGBA8888",
+	"size": {"w":1820,"h":1345},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cac583ca55d6170c0215633fdb2d2ce5:990c515e90c6147549139a6959bf598c:d752cba938428d4e991f493ad61b30f0$"
+}
+}

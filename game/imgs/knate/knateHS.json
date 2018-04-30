@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "knateHitS.png",
+	"frame": {"x":1,"y":1,"w":245,"h":254},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":340,"y":220,"w":245,"h":254},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knateHS.png",
+	"format": "RGBA8888",
+	"size": {"w":247,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3e4c060a3a48a14cc34ba9af0283cc89:2aff8c530177894cbfaf2662b4a0daaf:f9ef805cd847fbdd5091dcc65a5e0d54$"
+}
+}

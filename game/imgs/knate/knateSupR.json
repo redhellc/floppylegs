@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "SupR(1).png",
+	"frame": {"x":1,"y":266,"w":278,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":418,"y":63,"w":278,"h":110},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SupR(2).png",
+	"frame": {"x":1,"y":136,"w":278,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":418,"y":63,"w":278,"h":128},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SupR(3).png",
+	"frame": {"x":1,"y":266,"w":278,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":418,"y":95,"w":278,"h":110},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "SupR(4).png",
+	"frame": {"x":1,"y":1,"w":278,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":418,"y":63,"w":278,"h":133},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knateSupR.png",
+	"format": "RGBA8888",
+	"size": {"w":280,"h":377},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fb553c9ad63b0012077236aba3feec4f:34dcf1006940c3b6b83d107a59ea3ab6:d5a24fd239bf228a76adc72fea354c31$"
+}
+}

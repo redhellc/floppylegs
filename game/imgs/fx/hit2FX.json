@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "hit2(1).png",
+	"frame": {"x":1,"y":1,"w":175,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":528,"y":218,"w":175,"h":175},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "hit2(2).png",
+	"frame": {"x":178,"y":1,"w":155,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":541,"y":217,"w":155,"h":148},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "hit2(3).png",
+	"frame": {"x":335,"y":1,"w":145,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":543,"y":206,"w":145,"h":128},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "hit2(4).png",
+	"frame": {"x":335,"y":131,"w":105,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":537,"y":260,"w":105,"h":96},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hit2FX.png",
+	"format": "RGBA8888",
+	"size": {"w":481,"h":228},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:34e30f993ec2ea81d4e0f257b48735ae:827b7ae971859b06ffea2891d2b20e78:a66debe9c0cf1b25dcfdef7fa1cf492b$"
+}
+}

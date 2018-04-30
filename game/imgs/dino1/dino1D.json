@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "dino1Dead.png",
+	"frame": {"x":1,"y":1,"w":742,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":375,"y":101,"w":742,"h":490},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dino1D.png",
+	"format": "RGBA8888",
+	"size": {"w":744,"h":492},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a9ca5031ce7203c0ca990babc354ea9d:a9f3f3084e7ddd5ba1b6121b61f3b907:7e5ac143060e34bf830ac13df162c0c9$"
+}
+}

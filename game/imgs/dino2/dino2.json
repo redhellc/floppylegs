@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(1).png",
+	"frame": {"x":563,"y":438,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(2).png",
+	"frame": {"x":563,"y":642,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(3).png",
+	"frame": {"x":563,"y":846,"w":405,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":299,"w":405,"h":202},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(4).png",
+	"frame": {"x":563,"y":229,"w":405,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":294,"w":405,"h":207},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(5).png",
+	"frame": {"x":563,"y":1,"w":405,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":275,"w":405,"h":226},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(6).png",
+	"frame": {"x":1,"y":1,"w":560,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":154,"w":560,"h":347},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(7).png",
+	"frame": {"x":1,"y":350,"w":560,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":154,"w":560,"h":347},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "dino2(8).png",
+	"frame": {"x":1,"y":699,"w":560,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":154,"w":560,"h":347},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dino2.png",
+	"format": "RGBA8888",
+	"size": {"w":969,"h":1049},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6b3810fd15e3709fc995fd95d933de63:975a45ce4242385dde4aebe75950860a:0214e29e5ee5f46846e186ee0f150a36$"
+}
+}

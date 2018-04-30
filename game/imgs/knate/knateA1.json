@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "Atk1.png",
+	"frame": {"x":1,"y":492,"w":662,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":224,"w":662,"h":359},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk2.png",
+	"frame": {"x":1343,"y":406,"w":544,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":266,"w":544,"h":317},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk3.png",
+	"frame": {"x":1,"y":1,"w":745,"h":489},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":333,"y":104,"w":745,"h":489},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk4.png",
+	"frame": {"x":1312,"y":1,"w":572,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":429,"y":108,"w":572,"h":403},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk5.png",
+	"frame": {"x":1,"y":853,"w":565,"h":358},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":436,"y":108,"w":565,"h":358},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk6.png",
+	"frame": {"x":748,"y":1,"w":562,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":439,"y":108,"w":562,"h":434},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk7.png",
+	"frame": {"x":748,"y":437,"w":593,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":442,"y":218,"w":593,"h":369},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk8.png",
+	"frame": {"x":1400,"y":725,"w":489,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":415,"y":297,"w":489,"h":292},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk9.png",
+	"frame": {"x":1101,"y":808,"w":297,"h":389},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":411,"y":278,"w":297,"h":389},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Atk10.png",
+	"frame": {"x":665,"y":808,"w":434,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":178,"w":434,"h":412},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knateA1.png",
+	"format": "RGBA8888",
+	"size": {"w":1890,"h":1221},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a963eaab470adcd56994b3e1a227f033:3f968186a928886958572dbc1aabcb5b:93112944fafb9765dc60278f8d3ac641$"
+}
+}

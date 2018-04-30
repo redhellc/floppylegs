@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "jump1.png",
+	"frame": {"x":465,"y":1,"w":662,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":224,"w":662,"h":359},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump2.png",
+	"frame": {"x":1089,"y":709,"w":544,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":266,"w":544,"h":317},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump3.png",
+	"frame": {"x":1,"y":1,"w":462,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":115,"w":462,"h":448},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump4.png",
+	"frame": {"x":1,"y":451,"w":462,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":121,"w":462,"h":416},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump5.png",
+	"frame": {"x":465,"y":362,"w":626,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":121,"w":626,"h":310},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump6.png",
+	"frame": {"x":465,"y":674,"w":622,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":142,"w":622,"h":400},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump7.png",
+	"frame": {"x":1093,"y":415,"w":608,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":297,"w":608,"h":292},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "jump8.png",
+	"frame": {"x":1129,"y":1,"w":586,"h":412},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":178,"w":586,"h":412},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Knatejump.png",
+	"format": "RGBA8888",
+	"size": {"w":1716,"h":1075},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2dd9c92d9bac7ee138e8d1033aec8261:b7a7d0bad6ba73720abc224b6b54e54a:2faf0cd2614ad894b80b8e4e57feccf6$"
+}
+}

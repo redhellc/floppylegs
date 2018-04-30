@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "knateNolife.png",
+	"frame": {"x":1,"y":1,"w":588,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":162,"w":588,"h":380},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knateD.png",
+	"format": "RGBA8888",
+	"size": {"w":590,"h":382},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ca4f56f72dd496d8043a8af487b5d2aa:97de0b3537bb59274cea71878d33aba4:9b1bc2c8f21a2256e5e05139f4bd99ef$"
+}
+}

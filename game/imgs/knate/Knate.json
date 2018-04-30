@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "Knate(1).png",
+	"frame": {"x":664,"y":1,"w":670,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":185,"w":670,"h":319},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(2).png",
+	"frame": {"x":1,"y":395,"w":652,"h":391},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":196,"w":652,"h":391},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(3).png",
+	"frame": {"x":1210,"y":740,"w":542,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":214,"w":542,"h":374},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(4).png",
+	"frame": {"x":664,"y":322,"w":575,"h":414},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":176,"w":575,"h":414},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(5).png",
+	"frame": {"x":1,"y":788,"w":663,"h":316},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":185,"w":663,"h":316},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(6).png",
+	"frame": {"x":1,"y":1,"w":661,"h":392},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":196,"w":661,"h":392},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(7).png",
+	"frame": {"x":666,"y":738,"w":542,"h":376},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":214,"w":542,"h":376},
+	"sourceSize": {"w":1170,"h":850}
+},
+{
+	"filename": "Knate(8).png",
+	"frame": {"x":1241,"y":322,"w":575,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":176,"w":575,"h":416},
+	"sourceSize": {"w":1170,"h":850}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Knate.png",
+	"format": "RGBA8888",
+	"size": {"w":1817,"h":1115},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aa44fae729ae725aee7b81a9dbf77ff3:b56229dbce47c22232318f089db1da26:73e5c6284f780772ac79071a0a17a99b$"
+}
+}
