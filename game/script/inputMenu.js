@@ -1,8 +1,8 @@
-var inputLabel;
+﻿var inputLabel;
 var inputState = {
     
     create: function(){
-        inputLabel = game.add.text(game.width/2, game.world.height-100,'Select attack butten',
+        inputLabel = game.add.text(game.width/2, game.world.height-100,'Select attack button',
         {font: '35px contrail-one', fill: '#ffffff'});
         inputLabel.anchor.x = 0.5;
         inputLabel.anchor.y = 0.5;
@@ -17,10 +17,10 @@ var inputState = {
                         registerbutten(game.input.keyboard.event.keyCode,i); //regista essa tecla como acção pretendida
                         console.log(playerA.keys[i]);
                         if(i==0 && playerA.keys[i]!=0){
-                        inputLabel.setText("Select jump butten"); //muda texto no ecra
+                        inputLabel.setText("Select jump button"); //muda texto no ecra
                         }
                         if(i==1 && playerA.keys[i]!=0){
-                        inputLabel.setText("Select shield butten"); //muda texto no ecra
+                        inputLabel.setText("Select shield button"); //muda texto no ecra
                         }
                         i=3;
                 }
