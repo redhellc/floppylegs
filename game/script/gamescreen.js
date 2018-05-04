@@ -101,6 +101,12 @@ var gameplayState={
     
      create: function(){
           
+          if (game.sound.usingWebAudio && game.sound.context.state === 'suspended')
+          {
+            game.input.onTap.addOnce(game.sound.context.resume, game.sound.context);
+          }
+          
+          
           game.physics.startSystem(Phaser.Physics.ARCADE);  //inicia o sistema de fisicas do phaser
           
           Music.play();
