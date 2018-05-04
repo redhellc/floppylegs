@@ -106,8 +106,12 @@ var loadState={
     },
     
     create: function(){
-    
-    
+        
+        if (game.sound.usingWebAudio && game.sound.context.state === 'suspended')
+        {
+            game.input.onTap.addOnce(game.sound.context.resume, game.sound.context);
+        }
+
         playerA = new player(6,0,false,0,false,0, game.world.height-(game.world.height/4)*2, [0,0,0], 0.65); 
         knate = new character('runK','runKS','runKA','runKA2','runKA3','runKAS','runKA2S','runKA3S','runKJ','runKJS','KSup','KSupR', 'runKH','runKHS','runKD','runKDS');
         
